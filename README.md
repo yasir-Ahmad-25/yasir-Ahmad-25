@@ -8,10 +8,6 @@ I'm a passionate Backend Developer with a strong focus on building scalable, rea
 
 📱 Mobile Development: Flutter
 
-🎓 AI in Education: Developed a full-stack Personalized Learning Pathway Recommendation System using Laravel integrated with AI-driven course suggestions
-
-💻 Frontend/UI: Crafting responsive, elegant interfaces using Bootstrap and Tailwind CSS
-
 🧩 Development Philosophy
 I believe in writing clean, maintainable code and designing systems that are both user-friendly and technically robust. Whether I'm building intelligent learning platforms, mobile-first interfaces, or database-driven applications, my goal is always the same: to deliver smart solutions with real value.
 
